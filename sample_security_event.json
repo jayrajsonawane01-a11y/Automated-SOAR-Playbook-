@@ -1,0 +1,10 @@
+{
+  "event_id": "LAB-EDR-0007",
+  "timestamp": "2026-10-23T08:30:00Z",
+  "event_type": "edr_detection",
+  "severity": 9,
+  "known_malicious": false,
+  "endpoint_id": "LAB-WIN-02",
+  "source": "synthetic_lab_event",
+  "description": "Synthetic EDR detection for SOAR playbook validation"
+}
